@@ -87,7 +87,7 @@ const perguntas = [
       "Gastly",
       "Drowzee",
     ],
-    correta: 1
+    correta: 0
   },
 ];
   
