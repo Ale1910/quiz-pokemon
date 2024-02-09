@@ -60,7 +60,7 @@ header h1 {
   align-items: center;
   gap: 12px;
 
-  background-color: #1e293b;
+  background-color: darkred;
 }
 
 .quiz-item h3:before {
@@ -130,6 +130,7 @@ input:checked:before {
 #acertos {
   text-align: center;
   background-color: red;
+  color: white;
   
   position: fixed;
   bottom: 0;
